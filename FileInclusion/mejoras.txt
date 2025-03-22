@@ -1,0 +1,10 @@
+Para versiones php 5.3/5.4 se puede crear un script que cree una lista de payloads para anular el sufijo .php
+mediante el comando for. (Mirar apuntes)
+
+Automatizar el proceso, metiendo unicamente la URL y que ya genere los payloads
+
+Integrar todos los payloads en una payload_list con la que trabajar en un script de request a servidor
+
+Integrar el uso de gobuster para la personalización de url por carpetas encontradas
+
+Integrar un sistema de hilos multiples para mejorar la rapidez del programa
